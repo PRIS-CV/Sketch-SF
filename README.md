@@ -1,4 +1,4 @@
-# Sketch-SF
+# Sketch-Segformer
 Codes for the paper: "Sketch-Segformer: Transformer-Based Segmentation for Figurative and Creative Sketches" (IEEE TIP)
 
 ## Requirments
